@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.5\n"
+
+#. Text in echo
+msgid "Sarbacane Desktop"
+msgstr "Sarbacane Desktop"
+
+#. Text in echo
+msgid "Configuration"
+msgstr "Setup"
+
+#. Text in echo
+msgid "Email"
+msgstr "Email"
+
+#. Text in echo
+msgid "For more details"
+msgstr "Learn more"
+
+#. Text in echo
+msgid "https://www.sarbacane.com/ws/soft-redirect.asp?key=9Y4OtEZzaz&com=WordpressInfo"
+msgstr "https://www.sarbacane.com/ws/soft-redirect.asp?key=9Y4OtEZzaz&com=WordpressInfo"
+
+#. Text in echo
+msgid "For more informations, please take a look to our website"
+msgstr "For more informations, please take a look to our website"
+
+#. Text in echo
+msgid "Generate a key"
+msgstr "Generate a key"
+
+#. Text in echo
+msgid "Go in the plugins menu of Sarbacane Desktop and activate wordpress plugin"
+msgstr "Go to the Sarbacane Desktop plugin menu and activate the WordPress plugin"
+
+#. Text in echo
+msgid "How to set up the module ?"
+msgstr "How to set up the module?"
+
+#. Text in echo
+msgid "Need help ?"
+msgstr "Need help?"
+
+#. Text in echo
+msgid "sarbacane_desktop"
+msgstr "sarbacane_desktop"
+
+#. Text in echo
+msgid "http://sarbacane.com/?utm_source=module-wordpress&utm_medium=plugin&utm_content=lien-sarbacane&utm_campaign=wordpress"
+msgstr "http://sarbacane.com/?utm_source=module-wordpress&utm_medium=plugin&utm_content=lien-sarbacane&utm_campaign=wordpress"
+
+#. Text in echo
+msgid "http://www.sarbacane.com"
+msgstr "http://www.sarbacane.com"
+
+#. Text in echo
+msgid "support_at_sarbacane_dot_com"
+msgstr "support@sarbacane.com"
+
+#. Text in echo
+msgid "support_phone_number"
+msgstr "+33(0) 328 328 040"
+
+#. Text in echo
+msgid "Synchronization key to enter in Sarbacane Desktop"
+msgstr "Synchronization key to enter in Sarbacane Desktop"
+
+#. Text in echo
+msgid "Take a look at the help section online"
+msgstr "Take a look at the help section online"
+
+#. Text in echo
+msgid "Phone"
+msgstr "Phone"
+
+#. Text in echo
+msgid "URL to paste in Sarbacane Desktop"
+msgstr "URL to paste in Sarbacane Desktop"
+
+#. Text in echo
+msgid "Use this tool to add a form widget to your website that will allow subscribers to sign up and be automatically added to your email list."
+msgstr "Use this tool to add a form widget to your website that will allow subscribers to sign up and be automatically added to your email list."
+
+#. Text in echo
+msgid "Sarbacane Desktop widget setup"
+msgstr "Sarbacane Desktop widget setup"
+
+#. Text in echo
+msgid "sarbacane"
+msgstr "Sarbacane Desktop"
+
+#. Text in echo
+msgid "Sarbacane Desktop Widget"
+msgstr "Sarbacane Desktop Widget"
+
+#. Text in function
+msgid "All fields in the widget will be shown in your contact lists with the contact they're associated with."
+msgstr "All fields in the widget will be shown in your contact lists with the contact they're associated with."
+
+#. Text in function
+msgid "Sarbacane Desktop Newsletter"
+msgstr "Sarbacane Desktop Newsletter"
+
+#. Text in function
+msgid "Field name"
+msgstr "Field name"
+
+#. Text in function
+msgid "Default field value"
+msgstr "Default field value"
+
+#. Text in function
+msgid "The default value will be saved if the user does not provide information"
+msgstr "The default value will be saved if the user does not provide information"
+
+#. Text in function
+msgid "Widget ID"
+msgstr "Widget ID"
+
+#. Text in function
+msgid "Title"
+msgstr "Title"
+
+#. Text in function
+msgid "Description"
+msgstr "Description"
+
+#. Text in function
+msgid "Widget fields"
+msgstr "Widget fields"
+
+#. Text in function
+msgid "Add field"
+msgstr "Add field"
+
+#. Text in function
+msgid "Required fields"
+msgstr "Required fields"
+
+#. Text in function
+msgid "Widget preview"
+msgstr "Widget preview"
+
+#. Text in function
+msgid "Save"
+msgstr "Save"
+
+#. Text in function
+msgid "Email isn't valid."
+msgstr "Email isn't valid."
+
+#. Text in function
+msgid "Setup this widget by clicking the Sarbacane Desktop widget menu"
+msgstr "Setup this widget by clicking the Sarbacane Desktop widget menu"
+
+#. Text in function
+msgid "Have visitors fill out this form and the associated list will be updated accordingly"
+msgstr "Have visitors fill out this form and the associated list will be updated accordingly"
+
+#. Text in function
+msgid "Fields marked with * are mandatory"
+msgstr "Fields marked with * are mandatory"
+
+#. Text in function
+msgid "Mandatory"
+msgstr "Mandatory"
+
+#. Text in echo
+msgid "Live tech support and a variety of helpful resources: videos, tutorials, manuals, and a blog full of advice..."
+msgstr "Live tech support and a variety of helpful resources: videos, tutorials, manuals, and a blog full of advice..."
+
+#. Text in echo
+msgid "All you need to succeed: design, customize, send, and analyze your campaigns"
+msgstr "All you need to succeed: design, customize, send, and analyze your campaigns"
+
+#. Text in echo
+msgid "Awarded Best Emailing Solution by Bsoco Awards (an index that compares emailing solutions"
+msgstr "Awarded Best Emailing Solution by Bsoco Awards (an index that compares emailing solutions)"
+
+#. Text in echo
+msgid "Begin the set-up"
+msgstr "Begin the set-up"
+
+#. Text in echo
+msgid "Create your free account and start sending emails"
+msgstr "Create your free account and start sending emails"
+
+#. Text in echo
+msgid "Detailed statistics"
+msgstr "Detailed statistics"
+
+#. Text in echo
+msgid "Geolocation, openings, read time, clicks, opt-outs..."
+msgstr "Geolocation, openings, read time, clicks, opt-outs..."
+
+#. Text in echo
+msgid "Easily manage your newsletters and email marketing campaigns"
+msgstr "Easily manage your newsletters and email marketing campaigns"
+
+#. Text in echo
+msgid "NEW! Create beautiful, mobile-responsive emails with the EmailBuilder"
+msgstr "NEW! Create beautiful, mobile-responsive emails with the EmailBuilder"
+
+#. Text in echo
+msgid "No strings attached"
+msgstr "No strings attached"
+
+#. Text in echo
+msgid "Optimal deliverability"
+msgstr "Optimal deliverability"
+
+#. Text in echo
+msgid "Best in class deliverability thanks for our unrivaled routing platform"
+msgstr "Best in class deliverability thanks for our unrivaled routing platform"
+
+#. Text in echo
+msgid "Responsive visual editor"
+msgstr "Responsive visual editor"
+
+#. Text in echo
+msgid "Synchronization of your website data"
+msgstr "Synchronization of your website data"
+
+#. Text in echo
+msgid "Synchronize and manage all the email lists from your WordPress website"
+msgstr "Synchronize and manage all the email lists from your WordPress website"
+
+#. Text in echo
+msgid "This module lets you synchronize subscribers and accounts from your WordPress site with Sarbacane Desktop to take advantage of all its email marketing features."
+msgstr "This module lets you synchronize subscribers and accounts from your WordPress site with Sarbacane Desktop to take advantage of all its email marketing features."
+
+#. Text in echo
+msgid "Loved by over 25,000 users"
+msgstr "Loved by over 25,000 users"
+
+#. Text in echo
+msgid "Website"
+msgstr "Website"
+
+#. Text in echo
+msgid "Why choose Sarbacane Desktop ?"
+msgstr "Why choose Sarbacane Desktop ?"
+
+#. Text in echo
+msgid "Automatically synchronize your subscriber list"
+msgstr "Automatically synchronize your subscriber list"
+
+#. Text in echo
+msgid "All data from the widget will be available in your list"
+msgstr "All data from the widget will be available in your list"
+
+#. Text in echo
+msgid "Any changes in the structure of the form will cause a refresh of the associated list in Sarbacane Desktop."
+msgstr "Any changes in the structure of the form will cause a refresh of the associated list in Sarbacane Desktop."
+
+#. Text in echo
+msgid "Field"
+msgstr "Field"
+
+#. Text in echo
+msgid "Required field"
+msgstr "Required field"
+
+#. Text in echo
+msgid "Information"
+msgstr "Information"
+
+#. Text in echo
+msgid "Name"
+msgstr "Name"
+
+#. Text in echo
+msgid "Button name"
+msgstr "Button name"
+
+#. Text in echo
+msgid "Mandatory fields message"
+msgstr "Mandatory fields message"
+
+#. Text in echo
+msgid "Required"
+msgstr "Required"
+
+#. Text in echo
+msgid "Successful form submission message"
+msgstr "Successful form submission message"
+
+#. Text in echo
+msgid "No"
+msgstr "No"
+
+#. Text in echo
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#. Text in echo
+msgid "Preview"
+msgstr "Preview"
+
+#. Text in echo
+msgid "Text to display in the field"
+msgstr "Text to display in the field"
+
+#. Text in echo
+msgid "This tool allows you to create a form widget that you can add to WordPress"
+msgstr "This tool allows you to create a form widget that you can add to WordPress"
+
+#. Text in echo
+msgid "The widget will sync subscribers with your Sarbacane Desktop contact list"
+msgstr "The widget will sync subscribers with your Sarbacane Desktop contact list"
+
+#. Text in echo
+msgid "Widget settings"
+msgstr "Widget settings"
+
+#. Text in echo
+msgid "Yes"
+msgstr "Yes"
+
+#. Text in echo
+msgid "Synchronize a ''WordPress Users'' list"
+msgstr "Synchronize a ''WordPress Users'' list"
+
+#. Text in echo
+msgid "Lists synchronization in Sarbacane Desktop"
+msgstr "Lists synchronization in Sarbacane Desktop"
+
+#. Text in echo
+msgid "Connected"
+msgstr "Connected"
+
+#. Text in echo
+msgid "Generate another key"
+msgstr "Generate another key"
+
+#. Text in echo
+msgid "Disconnected"
+msgstr "Disconnected"
+
+#. Text in echo
+msgid "Please generate a new key"
+msgstr "Please generate a new key"
+
+#. Text in echo
+msgid "Setup the widget"
+msgstr "Setup the widget"
+
+#. Text in echo
+msgid "Lists sync."
+msgstr "Lists sync."
+
+#. Text in echo
+msgid "Widget"
+msgstr "Widget"
+
+#. Text in echo
+msgid "A new key has been generated"
+msgstr "A new key has been generated"
+
+#. Text in echo
+msgid "This plugin allows you to synchronize your WordPress data in Sarbacane Desktop"
+msgstr "This plugin allows you to synchronize your WordPress data in Sarbacane Desktop"
+
+#. Text in echo
+msgid "Careful, if you deactivate this list, the 'Contact form' widget and the associated list in Sarbacane Desktop will be deactivated too. Are you sure you wish to deactivate the list?"
+msgstr "Careful, if you deactivate this list, the 'Contact form' widget and the associated list in Sarbacane Desktop will be deactivated too. Are you sure you wish to deactivate the list?"
+
+#. Text in echo
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#. Text in echo
+msgid "Congrats! You signed up for our newsletter."
+msgstr "Congrats! You signed up for our newsletter."
+
+#. Text in echo
+msgid "Lists synchronization"
+msgstr "Lists synchronization"
+
+#. Text in echo
+msgid "Advanced settings"
+msgstr "Advanced settings"
+
+#. Text in echo
+msgid "Synchronize your WordPress theme"
+msgstr "Synchronize your WordPress theme"
+
+#. Text in echo
+msgid "Synchronize blog content"
+msgstr "Synchronize blog content"
+
+#. Text in echo
+msgid "Synchronize media library"
+msgstr "Synchronize media library"
+
+#. Text in echo
+msgid "Synchronize RSS data"
+msgstr "Synchronize RSS data"
+
+#. Text in echo
+msgid "Sarbacane Desktop's plugin setup"
+msgstr "Sarbacane Desktop's plugin setup"
+
+#. Text in echo
+msgid "Connection"
+msgstr "Connection"
+
+#. Text in echo
+msgid "Creates a WordPress users list in Sarbacane Desktop with all users who have an account on your blog or website."
+msgstr "Creates a WordPress users list in Sarbacane Desktop with all users who have an account on your blog or website."
+
+#. Text in echo
+msgid "Enables the widget menu on the left menu. It allows you to create an opt-in form which adds subscribers to a list in Sarbacane Desktop. This contact list will only be accessible in Sarbacane Desktop"
+msgstr "Enables the widget menu on the left menu. It allows you to create an opt-in form which adds subscribers to a list in Sarbacane Desktop. This contact list will only be accessible in Sarbacane Desktop"
+
+#. Text in echo
+msgid "Import the four main colors of your blog into a custom theme for the EmailBuilder"
+msgstr "Import the four main colors of your blog into a custom theme for the EmailBuilder"
+
+#. Text in echo
+msgid "Import all your post content in the EmailBuilder's blocks"
+msgstr "Import all your post content in the EmailBuilder's blocks"
+
+#. Text in echo
+msgid "Import elements from your WordPress media library into the EmailBuilder image blocks"
+msgstr "Import elements from your WordPress media library into the EmailBuilder image blocks"
+
+#. Text in echo
+msgid "Add your blog as a source for the EmailBuilder's RSS module"
+msgstr "Add your blog as a source for the EmailBuilder's RSS module"
